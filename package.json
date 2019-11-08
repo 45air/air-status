@@ -1,0 +1,36 @@
+{
+  "name": "@45air/air-status",
+  "description": "45AIR Cloud Status",
+  "version": "1.0.0",
+  "private": true,
+  "license": "MIT",
+  "scripts": {
+    "gh-pages": "gh-pages",
+    "dev": "statusfy dev",
+    "build": "statusfy build",
+    "start": "statusfy start",
+    "generate": "statusfy generate",
+    "new-incident": "statusfy new-incident",
+    "deploy": "gh-pages -d dist"
+  },
+  "author": {
+    "name": "45AIR",
+    "email": "support@45air.com",
+    "url": "https://www.45air.com"
+  },
+  "contributors": [
+    {
+      "name": "Reilly Lowery (@rifi2k)"
+    }
+  ],
+  "devDependencies": {
+    "gh-pages": "2.1.1"
+  },
+  "dependencies": {
+    "statusfy": "0.4.3"
+  },
+  "engines": {
+    "node": ">=8.10",
+    "npm": ">=5"
+  }
+}
