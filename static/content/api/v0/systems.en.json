@@ -1,1 +1,1 @@
-[{"name":"customer-portal","status":"operational","order":1},{"name":"gitlab","status":"operational","order":2},{"name":"pipeline","status":"operational","order":3},{"name":"api","status":"operational","order":4}]
+[{"name":"customer-portal","status":"operational","order":1},{"name":"gitlab","status":"operational","order":2},{"name":"pipeline","status":"operational","order":3},{"name":"api","status":"operational","order":4},{"name":"google-cloud","status":"operational","order":5}]
