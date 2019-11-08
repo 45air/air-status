@@ -1,7 +1,7 @@
 module.exports = {
   title: '45AIR Cloud Status',
   name: 'air_status',
-  description: '45AIR Cloud Status',
+  description: '45AIR cloud hosting status page',
   baseUrl: 'https://status.air-cloud.app',
   defaultLocale: 'en',
   locales: [
@@ -22,5 +22,14 @@ module.exports = {
   },
   support: {
     en: 'https://www.45air.com/support',
+  },
+  theme: {
+    links: {
+      en: {
+        contact: 'https://www.45air.com/contact',
+        support: 'https://www.45air.com/support',
+        home: 'https://status.air-cloud.app'
+      }
+    }
   }
 };
