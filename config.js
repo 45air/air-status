@@ -15,7 +15,7 @@ module.exports = {
       'api'
     ]
   },
-  notification: {
+  notifications: {
     webpush: {
       onesignal: {
         appId: '66906c90-6121-42e1-ab3a-135d1ba8f5ce'
