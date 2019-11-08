@@ -1,4 +1,29 @@
 {
   "title": "45AIR Cloud Status",
-  "description": "45AIR Cloud Status"
+  "description": "45AIR Cloud Status",
+  "links": {
+    "contact": "https://status.air-cloud.app/contact",
+    "suport": "https://status.air-cloud.app/support",
+    "home": "https://status.air-cloud.app"
+  },
+  "systems": {
+    "items": {
+      "customer-portal": {
+        "title": "Customer Portal",
+        "description": "Account administration & documentation websites for 45AIR customers."
+      },
+      "gitlab": {
+        "title": "Gitlab",
+        "description": "Managed Gitlab instance."
+      },
+      "pipeline": {
+        "title": "CI/CD Pipeline",
+        "description": "Gitlab runners and the deployment pipeline."
+      },
+      "api": {
+        "title": "API",
+        "description": "Customer API routes."
+      }
+    }
+  }
 }
