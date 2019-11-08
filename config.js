@@ -12,7 +12,8 @@ module.exports = {
       'customer-portal',
       'gitlab',
       'pipeline',
-      'api'
+      'api',
+      'google-cloud'
     ]
   },
   notifications: {

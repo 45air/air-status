@@ -23,6 +23,10 @@
       "api": {
         "title": "API",
         "description": "Customer API routes"
+      },
+      "google-cloud": {
+        "title": "Google Cloud",
+        "description": "Google Cloud Platform reported incidents"
       }
     }
   }
