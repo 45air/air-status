@@ -15,13 +15,12 @@ module.exports = {
       'api'
     ]
   },
-  webpush: {
-    onesignal: {
-      appId: '66906c90-6121-42e1-ab3a-135d1ba8f5ce'
-    }
-  },
-  support: {
-    en: 'https://www.45air.com/support',
+  notification: {
+    webpush: {
+      onesignal: {
+        appId: '66906c90-6121-42e1-ab3a-135d1ba8f5ce'
+      }
+    },
   },
   theme: {
     links: {
