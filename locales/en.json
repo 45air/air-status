@@ -10,19 +10,19 @@
     "items": {
       "customer-portal": {
         "title": "Customer Portal",
-        "description": "Account administration & documentation websites for 45AIR customers."
+        "description": "Account administration & documentation websites for 45AIR customers"
       },
       "gitlab": {
         "title": "Gitlab",
-        "description": "Managed Gitlab instance."
+        "description": "Managed Gitlab instance"
       },
       "pipeline": {
         "title": "CI/CD Pipeline",
-        "description": "Gitlab runners and the deployment pipeline."
+        "description": "Gitlab runners and the deployment pipeline"
       },
       "api": {
         "title": "API",
-        "description": "Customer API routes."
+        "description": "Customer API routes"
       }
     }
   }
